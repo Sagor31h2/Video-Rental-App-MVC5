@@ -1,0 +1,1 @@
+This is video rental app with admin control
